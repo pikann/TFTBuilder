@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "322294358889",
+    "firebase_url": "https://tftbuilder-5fc11.firebaseio.com",
+    "project_id": "tftbuilder-5fc11",
+    "storage_bucket": "tftbuilder-5fc11.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322294358889:android:4563a86267e8d1b67913f8",
+        "android_client_info": {
+          "package_name": "com.example.tftbuilder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322294358889-i2csd6koq9fv7aj3jmbg2gq5tbkg9rm8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBcbhoorhLKopQL8Zc1n1cKAcMnY6uN3rg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322294358889-i2csd6koq9fv7aj3jmbg2gq5tbkg9rm8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
